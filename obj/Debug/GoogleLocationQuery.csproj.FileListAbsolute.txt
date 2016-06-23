@@ -1,0 +1,15 @@
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\bin\Debug\GoogleLocationQuery.exe
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\bin\Debug\GoogleLocationQuery.pdb
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\bin\Debug\ManagedWifi.dll
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.csprojResolveAssemblyReference.cache
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.MainForm.resources
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.Properties.Resources.resources
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.csproj.GenerateResource.Cache
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.exe
+C:\Users\Isfahani\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.pdb
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.exe
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.pdb
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.csprojResolveAssemblyReference.cache
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.MainForm.resources
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.Properties.Resources.resources
+C:\Users\Isfahani\Desktop\Desktop\GetMACadr\GoogleLocationQuery\obj\Debug\GoogleLocationQuery.csproj.GenerateResource.Cache
